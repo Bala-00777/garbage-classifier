@@ -17,6 +17,14 @@ Features
 - Automatic resizing and preprocessing
 - Real-time classification
 - Simple web interface
+
+Screenshots
+
+ Home Page
+![Home](screenshots/home.png)
+
+ Prediction Output
+![Prediction](screenshots/prediction.png)
 -
 
 How to Run:
